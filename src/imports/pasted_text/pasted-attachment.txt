@@ -1,0 +1,632 @@
+Act as a Senior Product Designer at Apple, Notion, Linear, Airbnb and Stripe.
+
+Design a complete, premium, production-ready, responsive web application prototype (UI/UX only, no code) for my startup called "PeerPath".
+
+IMPORTANT:
+I have attached the OFFICIAL PeerPath logo and Brand Board.
+
+DO NOT redesign, recreate, modify, recolor, or replace the logo.
+
+Use ONLY the attached official logo.
+
+Crop it professionally, remove unnecessary whitespace if needed, align it perfectly, and use it consistently throughout the design.
+
+Do NOT generate another logo.
+
+Do NOT change the typography or colors of the logo.
+
+--------------------------------------------------
+
+PROJECT OVERVIEW
+
+PeerPath is NOT another social media platform.
+
+PeerPath is a Student Growth Ecosystem designed for students aged 16–25.
+
+Our mission is to help students navigate every stage of their academic and career journey through trusted peer guidance, real experiences and community support.
+
+Students can:
+
+• Ask questions
+• Share real experiences
+• Learn from seniors
+• Help juniors
+• Join communities
+• Post anonymously if needed
+• Receive trusted guidance
+• Build meaningful student connections
+
+Tagline:
+
+Students Helping Students Grow
+
+--------------------------------------------------
+
+DESIGN STYLE
+
+The design should feel like a real funded startup.
+
+Inspired by:
+
+Apple
+Notion
+Linear
+Stripe
+Airbnb
+
+Design language:
+
+Minimal
+Premium
+Modern
+Friendly
+Professional
+Clean
+Lots of whitespace
+Rounded corners
+Soft shadows
+Beautiful cards
+Excellent spacing
+Modern UI
+No clutter
+
+DO NOT use default Figma templates.
+
+Everything should feel custom designed.
+
+--------------------------------------------------
+
+COLOR PALETTE
+
+Use ONLY the colors from the attached Brand Board.
+
+Distribute all colors naturally.
+
+Do NOT make every screen green.
+
+Use:
+
+Forest Green
+Sage Green
+Terracotta
+Warm Cream
+White
+Light Beige
+
+Maintain perfect color balance.
+
+--------------------------------------------------
+
+TYPOGRAPHY
+
+Use Poppins.
+
+Bold headings.
+
+Minimal body text.
+
+Excellent hierarchy.
+
+--------------------------------------------------
+
+ICONS
+
+Use Lucide or Heroicons style outline icons only.
+
+Maintain one consistent icon style.
+
+--------------------------------------------------
+
+ILLUSTRATIONS
+
+Use warm editorial flat illustrations.
+
+Show students:
+
+Learning
+Helping
+Collaborating
+Discussing
+Growing
+
+Avoid AI looking illustrations.
+
+Avoid cartoon characters.
+
+--------------------------------------------------
+
+DESIGN RESPONSIVE DESKTOP FIRST
+
+1440px width.
+
+Use 8px spacing system.
+
+Modern startup layout.
+
+--------------------------------------------------
+
+DESIGN THE COMPLETE PRODUCT
+
+1. Landing Page
+
+Include:
+
+Navigation
+
+Logo
+
+Hero Section
+
+Tagline
+
+CTA
+
+Features
+
+How It Works
+
+Categories Preview
+
+Testimonials Placeholder
+
+FAQ
+
+Footer
+
+Buttons:
+
+Login
+
+Sign Up
+
+--------------------------------------------------
+
+2. Student Sign Up
+
+Fields:
+
+Full Name
+
+Username
+
+Email
+
+Password
+
+Confirm Password
+
+Education Level
+
+Institute
+
+Field of Study
+
+Graduation Year
+
+Student Verification Questions
+
+Beautiful multi-step form
+
+--------------------------------------------------
+
+3. Login
+
+Email / Username
+
+Password
+
+Forgot Password
+
+Login Button
+
+--------------------------------------------------
+
+4. Student Dashboard
+
+Left Sidebar
+
+Home
+
+Categories
+
+Communities
+
+Achievements
+
+Profile
+
+Settings
+
+Dark Mode Toggle
+
+Logout
+
+Modern dashboard layout
+
+--------------------------------------------------
+
+5. Home Feed
+
+Search Bar
+
+Trending
+
+Latest
+
+Top Stories
+
+Experiences
+
+Questions
+
+Create Post Button
+
+Profile Button
+
+Recommendation Cards
+
+--------------------------------------------------
+
+6. Create Post
+
+Fields
+
+Title
+
+Description
+
+Category
+
+Community
+
+Visibility
+
+Public
+
+Anonymous
+
+Submit
+
+Show workflow note:
+
+Pending Admin Approval
+
+--------------------------------------------------
+
+7. Categories Page
+
+Display categories as premium cards.
+
+Categories:
+
+🎓 Studies
+
+Communities:
+
+University Admissions
+
+Scholarships
+
+Study Tips
+
+Exam Preparation
+
+--------------------------------
+
+💼 Career & Skills
+
+Communities:
+
+Career Guidance
+
+Programming
+
+Designing
+
+AI & Machine Learning
+
+Internships
+
+Interview Preparation
+
+--------------------------------
+
+🌱 Self Growth
+
+Communities:
+
+Productivity
+
+Time Management
+
+Goal Setting
+
+Communication Skills
+
+Public Speaking
+
+Habits & Discipline
+
+--------------------------------
+
+🏫 Campus Life
+
+Communities:
+
+Hostel Life
+
+Campus Events
+
+University Reviews
+
+Freshman Guide
+
+--------------------------------
+
+❤️ Student Support
+
+Communities:
+
+Friendship
+
+Parents & Family
+
+Stress Management
+
+Motivation
+
+Student Challenges
+
+Work-Life Balance
+
+Display every category as a beautiful modern card.
+
+--------------------------------------------------
+
+8. Communities Page
+
+Display community cards.
+
+When a community opens:
+
+Show
+
+Community Banner
+
+Search
+
+Filter
+
+Posts
+
+Experiences
+
+Questions
+
+Comments
+
+Trending
+
+Newest
+
+--------------------------------------------------
+
+9. Post Detail
+
+Modern discussion page.
+
+Comments
+
+Like
+
+Report
+
+Reply
+
+Helpful Answer Badge
+
+Anonymous Badge
+
+--------------------------------------------------
+
+10. Achievements
+
+Show beautiful badges.
+
+Examples:
+
+Verified Student
+
+Top Contributor
+
+Helpful Advisor
+
+Community Champion
+
+Modern achievement cards.
+
+Leaderboard preview.
+
+--------------------------------------------------
+
+11. Student Profile
+
+Profile Header
+
+Education
+
+Bio
+
+Achievements
+
+Communities Joined
+
+Posts
+
+Comments
+
+Reputation Score
+
+--------------------------------------------------
+
+12. Settings
+
+Edit Profile
+
+Notifications
+
+Privacy
+
+Dark Mode
+
+Password
+
+Logout
+
+--------------------------------------------------
+
+13. Admin Dashboard
+
+Professional admin panel.
+
+Sidebar:
+
+Dashboard
+
+Students
+
+Posts
+
+Reports
+
+Communities
+
+Achievements
+
+Analytics
+
+Settings
+
+--------------------------------------------------
+
+Students
+
+Approve
+
+Suspend
+
+Ban
+
+Search
+
+--------------------------------------------------
+
+Posts
+
+Pending Posts
+
+Approve
+
+Reject
+
+--------------------------------------------------
+
+Reports
+
+Reported Posts
+
+Reported Comments
+
+Suspend User
+
+Ban User
+
+--------------------------------------------------
+
+Achievements
+
+Assign Badges
+
+Verified Student
+
+Top Contributor
+
+--------------------------------------------------
+
+IMPORTANT PRODUCT WORKFLOW
+
+Student
+
+↓
+
+Signup
+
+↓
+
+Verification
+
+↓
+
+Dashboard
+
+↓
+
+Join Category
+
+↓
+
+Join Community
+
+↓
+
+Read Experiences
+
+↓
+
+Create Post
+
+↓
+
+Admin Approval
+
+↓
+
+Published
+
+↓
+
+Comments
+
+↓
+
+Report if needed
+
+↓
+
+Receive Guidance
+
+↓
+
+Help Other Students
+
+--------------------------------------------------
+
+VERY IMPORTANT
+
+Design should immediately look like a premium startup product.
+
+Do NOT use generic dashboards.
+
+Do NOT use template layouts.
+
+Do NOT redesign my branding.
+
+Do NOT generate another logo.
+
+Use ONLY my attached official logo.
+
+Automatically crop, align and size the logo professionally.
+
+Maintain consistent branding across every screen.
+
+The final result should be suitable for startup investors, Bano Qabil Expo judges and a professional product case study.
